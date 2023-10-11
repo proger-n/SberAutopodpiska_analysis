@@ -5,7 +5,7 @@ https://sberautopodpiska.ru/
 ## Описание данных
 Данные из Google Analytics (last-click attribution model) по сайту
 «СберАвтоподписка».  
-Подробнее в папке [materials](materials\full_description.pdf)
+Подробнее в папке [materials](materials/full_description.pdf)
 
 ## Выполненные задачи
 
