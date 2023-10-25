@@ -8,7 +8,7 @@ https://sberautopodpiska.ru/
 Подробное описание в папке [materials](materials/full_description.pdf)
 
 ## Выполненные задачи
-[Colab](https://drive.google.com/file/d/1EnFCjz-bXlD-iQwVtIK2fpMnfXcgkjaE/view?usp=sharing)
+[Colab](https://colab.research.google.com/drive/1aqakybuaQj-r8DDvEsAUskrLGioGQqbb?usp=sharing)
 
 **Проведены проверки следующих гипотез:**
 1. Органический трафик не отличается от платного с точки зрения CR (Conversion Rate) в целевые события.
