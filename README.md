@@ -1,6 +1,7 @@
 # sberAutopodpiska_analysis
-Анализ сайта «СберАвтоподписка»
-https://sberautopodpiska.ru/
+Analysis of the website "SberAvtopodpiska"
+https://sberautopodpiska.ru/  
+Hypotheses have been tested and answers to the questions of the product team have been given
 
 ## Описание данных
 Данные из Google Analytics (last-click attribution model) по сайту
